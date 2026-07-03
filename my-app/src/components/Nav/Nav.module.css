@@ -1,0 +1,14 @@
+.nav {
+  padding: 10px 20px;
+  text-align: right;
+}
+
+.navLink {
+  margin: 0 10px;
+  color: #333;
+  text-decoration: none;
+}
+
+.navLink:hover {
+  text-decoration: underline;
+}

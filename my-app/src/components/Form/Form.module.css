@@ -1,0 +1,41 @@
+.form {
+  border: 2px solid #fff;
+  padding: 20px;
+  max-width: 780px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.formList {
+  display: flex;
+  margin-bottom: 10px;
+}
+
+.formTitle {
+  font-weight: bold;
+  cursor: pointer;
+  width: 30%;
+}
+
+.formField {
+  width: 70%;
+}
+
+.formButton {
+  text-align: center;
+}
+
+.formButtonElm {
+  padding: 10px 20px;
+  background-color: #fff;
+  color: #000;
+  border: none;
+  cursor: pointer;
+  font-size: 16px;
+  border-radius: 5px;
+}
+
+.formButtonElm:hover {
+  opacity: 0.8;
+}
+

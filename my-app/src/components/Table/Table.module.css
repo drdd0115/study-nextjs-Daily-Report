@@ -1,0 +1,24 @@
+.table {
+  width: 100%;
+}
+
+.tableHead {
+  background-color: #000;
+}
+
+.tableHead th {
+  border: 1px solid #000;
+  text-align: center;
+  padding: 5px;
+  width: 15%;
+}
+
+.tableHead  th:nth-child(4) {
+  width: 55%;
+}
+
+.tableBody td {
+  text-align: center;
+  border: 1px solid #000;
+  padding: 10px;
+}
